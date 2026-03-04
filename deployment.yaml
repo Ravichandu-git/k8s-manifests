@@ -8,6 +8,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: 742710068961.dkr.ecr.ap-south-1.amazonaws.com/my-app:4
+        image: 742710068961.dkr.ecr.ap-south-1.amazonaws.com/my-app:5
         ports:
         - containerPort: 8080
